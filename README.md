@@ -70,7 +70,6 @@ Flask Web Application
 ├── Dockerfile
 ├── Jenkinsfile
 ├── templates/
-├── static/
 └── README.md
 ```
 
