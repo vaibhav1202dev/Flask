@@ -185,28 +185,9 @@ Open your browser:
 http://localhost:5000
 ```
 
----
 
-## 📸 Screenshots
 
-You can include screenshots such as:
 
-* Flask application homepage
-* Jenkins pipeline execution
-* Successful build status
-* Docker container running
-* AWS EC2 deployment
-* Terminal output
-
-Example:
-
-```text
-screenshots/
-├── flask-home.png
-├── jenkins-build.png
-├── docker-container.png
-└── aws-deployment.png
-```
 
 ---
 
@@ -221,18 +202,7 @@ screenshots/
 * Git & GitHub
 * Python Flask Development
 
----
 
-## 📚 Learning Outcomes
-
-Through this project, I gained hands-on experience with:
-
-* Building containerized applications
-* Automating deployments using Jenkins
-* Deploying applications on AWS EC2
-* Managing Docker containers
-* Implementing end-to-end CI/CD workflows
-* Integrating GitHub with Jenkins
 
 
 ---
